@@ -15,9 +15,9 @@
 
 ## Teknologi yang Digunakan
 
-- **HTML5** untuk struktur halaman.
-- **CSS3** untuk desain dan tata letak responsif.
-- **JavaScript** untuk interaksi dan pengambilan data cuaca secara real-time melalui API.
+- ⚛️ **ReactJS**: Library JavaScript untuk membangun antarmuka pengguna.
+- 🚀 **Vite**: Alat build yang cepat untuk pengembangan frontend modern.
+- 🌍 **OpenWeatherMap API**: API untuk mengambil data cuaca real-time berdasarkan lokasi.
 
 ## Cara Menggunakan
 
